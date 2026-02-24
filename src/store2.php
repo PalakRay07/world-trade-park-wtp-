@@ -187,13 +187,13 @@
         <h2>Forest Essentials</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store2 a.jpg" alt="Forest Essentials 1">
+                <img src="../images/Store2 a.jpg" alt="Forest Essentials 1">
             </div>
             <div class="feature-image">
-                <img src="Store2 b.png" alt="Forrest Essentials 2">
+                <img src="../images/Store2 b.png" alt="Forrest Essentials 2">
             </div>
             <div class="feature-image">
-                <img src="Store2 c.png" alt="Forrest Essentials 3">
+                <img src="../images/Store2 c.png" alt="Forrest Essentials 3">
             </div>
         </div>
         <p>Forest Essentials offers a range of luxurious Ayurvedic beauty and wellness products using traditional

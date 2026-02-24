@@ -166,7 +166,7 @@
     <section id="restaurant-info">
         <h2>The Chocolate Room</h2>
         <div class="restaurant-image">
-            <img src="The Chocolate Room.jpg" alt="The Chocolate Room">
+            <img src="../images/The Chocolate Room.jpg" alt="The Chocolate Room">
         </div>
         <p>The Chocolate Room is a paradise for chocolate lovers, offering a delectable range of chocolate-based desserts,
             beverages, and snacks. From rich and creamy hot chocolates to indulgent chocolate fondues, The Chocolate Room
@@ -175,13 +175,13 @@
         <h3>Feature Images</h3>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Dining5 a.jpg" alt="TCR 1">
+                <img src="../images/Dining5 a.jpg" alt="TCR 1">
             </div>
             <div class="feature-image">
-                <img src="Dining5 b.jpg" alt="TCR 2">
+                <img src="../images/Dining5 b.jpg" alt="TCR 2">
             </div>
             <div class="feature-image">
-                <img src="Dining5 c.jpg" alt="TCR 3">
+                <img src="../images/Dining5 c.jpg" alt="TCR 3">
             </div>
         </div>
 

@@ -165,7 +165,7 @@
     <section id="restaurant-info">
         <h2>Domino's</h2>
         <div class="restaurant-image">
-            <img src="Domino's.jpg" alt="Domino's">
+            <img src="../images/Domino's.jpg" alt="Domino's">
         </div>
         <p>Domino's Pizza is a well-known international pizza chain offering a variety of pizzas and other Italian-inspired
             dishes. With a focus on fast delivery and quality ingredients, Domino's has become a favorite choice for
@@ -174,13 +174,13 @@
         <h3>Feature Images</h3>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Dining3 a.jpg" alt="Domino's 1">
+                <img src="../images/Dining3 a.jpg" alt="Domino's 1">
             </div>
             <div class="feature-image">
-                <img src="Dining3 b.jpg" alt="Domino's 2">
+                <img src="../images/Dining3 b.jpg" alt="Domino's 2">
             </div>
             <div class="feature-image">
-                <img src="Dining3 c.jpg" alt="Domino's 3">
+                <img src="../images/Dining3 c.jpg" alt="Domino's 3">
             </div>
         </div>
 

@@ -187,13 +187,13 @@
         <h2>Puma</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store4 a.jpg" alt="Puma 1">
+                <img src="../images/Store4 a.jpg" alt="Puma 1">
             </div>
             <div class="feature-image">
-                <img src="Store4 b.jpg" alt="Puma 2">
+                <img src="../images/Store4 b.jpg" alt="Puma 2">
             </div>
             <div class="feature-image">
-                <img src="Store4 c.jpg" alt="Puma 3">
+                <img src="../images/Store4 c.jpg" alt="Puma 3">
             </div>
         </div>
         <p>Puma is a leading sports and lifestyle brand that offers a wide range of athletic footwear, apparel, and

@@ -188,13 +188,13 @@
         <h2>Marks and Spencer</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store5 a.jpg" alt="Marks and Spencer 1">
+                <img src="../images/Store5 a.jpg" alt="Marks and Spencer 1">
             </div>
             <div class="feature-image">
-                <img src="Store5 b.jpg" alt="Marks and Spencer 2">
+                <img src="../images/Store5 b.jpg" alt="Marks and Spencer 2">
             </div>
             <div class="feature-image">
-                <img src="Store5 c.jpg" alt="Marks and Spencer 3">
+                <img src="../images/Store5 c.jpg" alt="Marks and Spencer 3">
             </div>
         </div>
         <p>Marks and Spencer is a well-known British multinational retailer specializing in clothing, home products, and luxury food products. With a heritage dating back to 1884, Marks and Spencer has built a reputation for quality, value, and customer service.</p>

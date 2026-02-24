@@ -187,13 +187,13 @@
         <h2>Mango</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store3 a.jpg" alt="Mango 1">
+                <img src="../images/Store3 a.jpg" alt="Mango 1">
             </div>
             <div class="feature-image">
-                <img src="store3 b.jpg" alt="Mango 2">
+                <img src="../images/store3 b.jpg" alt="Mango 2">
             </div>
             <div class="feature-image">
-                <img src="store3 c.jpg" alt="Mango 3">
+                <img src="../images/store3 c.jpg" alt="Mango 3">
             </div>
         </div>
         <p>Mango is a renowned fashion retailer offering trendy and chic clothing, accessories, and footwear for men and

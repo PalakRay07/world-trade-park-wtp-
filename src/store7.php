@@ -188,13 +188,13 @@
         <h2>Armani</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store7 a.jpg" alt="Armani 1">
+                <img src="../images/Store7 a.jpg" alt="Armani 1">
             </div>
             <div class="feature-image">
-                <img src="Store7 b.jpg" alt="Armani 2">
+                <img src="../images/Store7 b.jpg" alt="Armani 2">
             </div>
             <div class="feature-image">
-                <img src="Store7 c.jpg" alt="Armani 3">
+                <img src="../images/Store7 c.jpg" alt="Armani 3">
             </div>
         </div>
         <p>Armani is a luxury fashion brand known for its sophisticated designs, high-quality materials, and timeless elegance. From tailored suits and formal wear to casual attire and accessories, Armani offers a wide range of products for both men and women.</p>

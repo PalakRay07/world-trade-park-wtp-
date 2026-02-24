@@ -165,7 +165,7 @@
     <section id="restaurant-info">
         <h2>KFC</h2>
         <div class="restaurant-image">
-            <img src="KFC.jpg" alt="KFC">
+            <img src="../images/KFC.jpg" alt="KFC">
         </div>
         <p>KFC, also known as Kentucky Fried Chicken, is a globally renowned fast-food chain specializing in fried chicken
             dishes. With its secret blend of 11 herbs and spices, KFC offers a unique and delicious flavor that has
@@ -174,13 +174,13 @@
         <h3>Feature Images</h3>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Dining2 a.png" alt="KFC 1">
+                <img src="../images/Dining2 a.png" alt="KFC 1">
             </div>
             <div class="feature-image">
-                <img src="Dining2 b.jpg" alt="KFC 2">
+                <img src="../images/Dining2 b.jpg" alt="KFC 2">
             </div>
             <div class="feature-image">
-                <img src="Dining2 c.jpg" alt="KFC 3">
+                <img src="../images/Dining2 c.jpg" alt="KFC 3">
             </div>
         </div>
 

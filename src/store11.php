@@ -188,13 +188,13 @@
         <h2>Kitchen Accessories</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store11 a.jpg" alt="Kitchen 1">
+                <img src="../images/Store11 a.jpg" alt="Kitchen 1">
             </div>
             <div class="feature-image">
-                <img src="Store11 b.jpg" alt="Kitchen 2">
+                <img src="../images/Store11 b.jpg" alt="Kitchen 2">
             </div>
             <div class="feature-image">
-                <img src="Store11 c.jpg" alt="Kitchen 3">
+                <img src="../images/Store11 c.jpg" alt="Kitchen 3">
             </div>
         </div>
         <p>Kitchen Accessories offers a wide range of tools, gadgets, and appliances to make cooking and meal preparation easier and more enjoyable. From cutting boards and knives to mixers and blenders, our store has everything you need to equip your kitchen for culinary success.</p>

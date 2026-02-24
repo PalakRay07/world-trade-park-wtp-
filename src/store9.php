@@ -188,13 +188,13 @@
         <h2>Sephora</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store9 a.jpg" alt="Sephora 1">
+                <img src="../images/Store9 a.jpg" alt="Sephora 1">
             </div>
             <div class="feature-image">
-                <img src="Store9 b.jpg" alt="Sephora 2">
+                <img src="../images/Store9 b.jpg" alt="Sephora 2">
             </div>
             <div class="feature-image">
-                <img src="Store9 c.jpg" alt="Sephora 3">
+                <img src="../images/Store9 c.jpg" alt="Sephora 3">
             </div>
         </div>
         <p>Sephora is a leading beauty retailer offering a diverse range of skincare, makeup, fragrance, and hair care products from top brands around the world. With its innovative beauty solutions and expert advice, Sephora aims to inspire and empower individuals to express their unique beauty.</p>

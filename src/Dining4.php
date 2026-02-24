@@ -165,7 +165,7 @@
     <section id="restaurant-info">
         <h2>Baskin Robbins</h2>
         <div class="restaurant-image">
-            <img src="Baskin Robbin.jpg" alt="Baskin Robbins">
+            <img src="../images/Baskin Robbin.jpg" alt="Baskin Robbins">
         </div>
         <p>Baskin Robbins is a global chain of ice cream parlors known for its wide range of flavors and innovative ice
             cream creations. With over 1,300 flavors in its recipe library, Baskin Robbins offers something for
@@ -174,13 +174,13 @@
         <h3>Feature Images</h3>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Dining4 a.png" alt="Baskin Robbins 1">
+                <img src="../images/Dining4 a.png" alt="Baskin Robbins 1">
             </div>
             <div class="feature-image">
-                <img src="Dining4 b.jpg" alt="Baskin Robbins 2">
+                <img src="../images/Dining4 b.jpg" alt="Baskin Robbins 2">
             </div>
             <div class="feature-image">
-                <img src="Dining4 c.jpg" alt="Baskin Robbins 3">
+                <img src="../images/Dining4 c.jpg" alt="Baskin Robbins 3">
             </div>
         </div>
 

@@ -165,7 +165,7 @@
     <section id="restaurant-info">
         <h2>Food Junction</h2>
         <div class="restaurant-image">
-            <img src="Food-junction.jpg" alt="Food Junction">
+            <img src="../images/Food-junction.jpg" alt="Food Junction">
         </div>
         <p>Food Junction offers a wide variety of culinary delights, ranging from local delicacies to international
             cuisine. With a cozy ambiance and friendly staff, it's the perfect spot to satisfy your cravings and enjoy a
@@ -174,13 +174,13 @@
         <h3>Feature Images</h3>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Dining1 a.jpg" alt="Food-junction 1">
+                <img src="../images/Dining1 a.jpg" alt="Food-junction 1">
             </div>
             <div class="feature-image">
-                <img src="Dining1 b.jpg" alt="Food-junction 2">
+                <img src="../images/Dining1 b.jpg" alt="Food-junction 2">
             </div>
             <div class="feature-image">
-                <img src="Dining1 c.jpg" alt="Food-junction 3">
+                <img src="../images/Dining1 c.jpg" alt="Food-junction 3">
             </div>
         </div>
 

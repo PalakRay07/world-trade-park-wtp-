@@ -186,13 +186,13 @@
         <h2>Zara</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store1 a.jpg" alt="zara 1">
+                <img src="../images/Store1 a.jpg" alt="zara 1">
             </div>
             <div class="feature-image">
-                <img src="Store1 b.jpg" alt="zara 2">
+                <img src="../images/Store1 b.jpg" alt="zara 2">
             </div>
             <div class="feature-image">
-                <img src="Store1 c.jpg" alt="zara 3">
+                <img src="../images/Store1 c.jpg" alt="zara 3">
             </div>
         </div>
         <p>Zara is a renowned fashion retailer offering the latest trends in clothing, footwear, and accessories for men, women, and children. With a focus on design, quality, and affordability, Zara has become a global leader in the fashion industry.</p>

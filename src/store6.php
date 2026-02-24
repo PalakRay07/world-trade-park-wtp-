@@ -188,13 +188,13 @@
         <h2>Cineplex</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store6 a.jpg" alt="Cineplex 1">
+                <img src="../images/Store6 a.jpg" alt="Cineplex 1">
             </div>
             <div class="feature-image">
-                <img src="Store6 b.png" alt="Cineplex 2">
+                <img src="../images/Store6 b.png" alt="Cineplex 2">
             </div>
             <div class="feature-image">
-                <img src="Store6 c.jpg" alt="Cineplex 3">
+                <img src="../images/Store6 c.jpg" alt="Cineplex 3">
             </div>
         </div>
         <p>Cineplex is a state-of-the-art movie theater offering the latest blockbuster movies, comfortable seating, and a premium cinematic experience. With multiple screens and advanced audiovisual technology, Cineplex is the perfect destination for movie enthusiasts of all ages.</p>

@@ -189,13 +189,13 @@
         <h2>Grocery</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store10 a.jpg" alt="Grocery 1">
+                <img src="../images/Store10 a.jpg" alt="Grocery 1">
             </div>
             <div class="feature-image">
-                <img src="Store10 b.jpg" alt="Grocery 2">
+                <img src="../images/Store10 b.jpg" alt="Grocery 2">
             </div>
             <div class="feature-image">
-                <img src="Store10 c.jpg" alt="Grocery 3">
+                <img src="../images/Store10 c.jpg" alt="Grocery 3">
             </div>
         </div>
         <p>Grocery store offers a wide variety of fresh produce, packaged foods, household essentials, and specialty items to meet all your grocery needs. From farm-fresh fruits and vegetables to organic dairy products and gourmet snacks, our store is your one-stop shop for quality ingredients and delicious meals.</p>

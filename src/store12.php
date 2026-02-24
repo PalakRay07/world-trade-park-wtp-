@@ -188,13 +188,13 @@
         <h2>Home & Furniture</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store12 a.png" alt="Home 1">
+                <img src="../images/Store12 a.png" alt="Home 1">
             </div>
             <div class="feature-image">
-                <img src="Store12 b.jpg" alt="Home 2">
+                <img src="../images/Store12 b.jpg" alt="Home 2">
             </div>
             <div class="feature-image">
-                <img src="Store12 c.jpg" alt="Home 3">
+                <img src="../images/Store12 c.jpg" alt="Home 3">
             </div>
         </div>
         <p>Home & Furniture offers a wide selection of stylish and functional furniture and home decor items to help you create the perfect living space. From sofas and coffee tables to rugs and wall art, our store has everything you need to design a home that reflects your personal style.</p>

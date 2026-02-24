@@ -188,13 +188,13 @@
         <h2>Cosmo</h2>
         <div class="feature-images">
             <div class="feature-image">
-                <img src="Store8 a.jpg" alt="Cosmo 1">
+                <img src="../images/Store8 a.jpg" alt="Cosmo 1">
             </div>
             <div class="feature-image">
-                <img src="Store8 b.jpg" alt="Cosmo 2">
+                <img src="../images/Store8 b.jpg" alt="Cosmo 2">
             </div>
             <div class="feature-image">
-                <img src="Store8 c.jpg" alt="Cosmo 3">
+                <img src="../images/Store8 c.jpg" alt="Cosmo 3">
             </div>
         </div>
         <p>Cosmo is a trendy cosmetics and beauty store offering a wide range of skincare, makeup, and hair care products. With a focus on quality and innovation, Cosmo brings the latest beauty trends and essentials to its customers.</p>
